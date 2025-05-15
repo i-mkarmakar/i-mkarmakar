@@ -17,9 +17,9 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>&nbsp;
     <a href="https://github.com/i-mkarmakar" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=fabwaseem&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=i-mkarmakar&style=for-the-badge&color=0e75b6" alt="Profile Views" />
     </a>&nbsp;
-    <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <a href="https://discord.com/users/714760869719965716" target="_blank">
      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>&nbsp;
     <a href="mailto:fabwaseem@gmail.com">
