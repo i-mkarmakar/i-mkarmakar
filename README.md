@@ -28,7 +28,7 @@
 <!-- About Me Section -->
 <div style="clear: both; margin-top: 50px;">
   <h2>About Me</h2>
-  <img align="right" alt="Coding" width="500" src="https://github-stats-alpha.vercel.app/api?username=i-mkarmakar&cc=000&tc=fff&ic=fff&bc=000" style="margin-left: 20px; margin-bottom: 20px;"/>
+  <img align="right" alt="Coding" width="400" src="https://github-stats-alpha.vercel.app/api?username=i-mkarmakar&cc=000&tc=fff&ic=fff&bc=000" style="margin-left: 20px; margin-bottom: 20px;"/>
   
   <p style="margin-bottom: 10px;">Passionate Full Stack Developer with expertise in modern web technologies and cloud solutions. I transform innovative ideas into scalable applications.</p>
 
