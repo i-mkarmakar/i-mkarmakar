@@ -114,7 +114,7 @@
 <h2>Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-mkarmakar&theme=react-dark&hide_border=true&area=tru" width="80%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-mkarmakar&theme=react-dark&hide_border=true&area=tru" width="*91%">
 </div>
 
 <!-- GitHub Trophies 
