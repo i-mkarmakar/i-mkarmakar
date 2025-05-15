@@ -16,11 +16,14 @@
     <a href="https://twitter.com/fabwaseeem" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>&nbsp;
-    <a href="mailto:fabwaseem@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>&nbsp;
     <a href="https://github.com/i-mkarmakar" target="_blank">
       <img src="https://komarev.com/ghpvc/?username=fabwaseem&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+    </a>&nbsp;
+    <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>&nbsp;
+    <a href="mailto:fabwaseem@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </div>
 </div>
@@ -32,12 +35,11 @@
   
   <p style="margin-bottom: 10px;">Passionate Full Stack Developer with expertise in modern web technologies and cloud solutions. I transform innovative ideas into scalable applications.</p>
 
-  - Currently working on **Cloud-Native Applications**
-  - Learning **System Design & Cloud Architecture**
+  - Currently working on **SAAS Application**
+  - Learning **Web3 & blockchain technology**
   - Looking to collaborate on **Open Source Projects**
-  - Ask me about **Web Development, DevOps, & Cloud**
+  - Ask me about **Web Development**
   - Reach me at **mrinalkarmakar565@gmail.com**
-  - Fun fact: I debug better with coffee ☕
 </div>
 
 <br clear="both">
@@ -99,13 +101,13 @@
 <h2>GitHub Stats</h2>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-mkarmakar&theme=github_dark" width="80%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-mkarmakar&theme=github_dark" width="91%" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-mkarmakar&theme=github_dark" width="25%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-mkarmakar&theme=github_dark" width="25%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i-mkarmakar&theme=github_dark" width="25%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-mkarmakar&theme=github_dark" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i-mkarmakar&theme=github_dark" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-mkarmakar&theme=github_dark" width="30%" />
 </div>
 
 <!-- Activity Graph -->
