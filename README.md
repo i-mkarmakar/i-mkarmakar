@@ -35,7 +35,7 @@
   
   <p style="margin-bottom: 10px;">Passionate Full Stack Developer with expertise in modern web technologies and cloud solutions. I transform innovative ideas into scalable applications.</p>
 
-  - Currently working on **chhota दुकान**
+  - Currently working on **Chhota दुकान**
   - Learning **Web3 & blockchain technology**
   - Looking to collaborate on **Open Source Projects**
   - Ask me about **Web Development**
