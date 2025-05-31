@@ -5,21 +5,21 @@
 
   <!-- Social Badges -->
   <div>
+    <a href="mailto:fabwaseem@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
     <a href="https://www.linkedin.com/in/fabwaseem" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>&nbsp;
+    <a href="https://github.com/i-mkarmakar" target="_blank">
+     <img src="https://komarev.com/ghpvc/?username=i-mkarmakar&style=for-the-badge&color=0e75b6" alt="Profile Views" />
     </a>&nbsp;
     <a href="https://twitter.com/fabwaseeem" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>&nbsp;
-    <a href="https://github.com/i-mkarmakar" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=i-mkarmakar&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-    </a>&nbsp;
     <a href="https://discord.com/users/714760869719965716" target="_blank">
      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>&nbsp;
-    <a href="mailto:fabwaseem@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
   </div>
 </div>
 
