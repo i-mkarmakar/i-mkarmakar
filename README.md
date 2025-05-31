@@ -3,11 +3,6 @@
   <!-- Banner Image -->
 <img src="https://drive.google.com/uc?export=view&id=1RaWf8s8lHLz8KtWkXuVBuM_iY-6LfunO" width="100%" alt="Welcome Banner"/>
 
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-
   <!-- Social Badges -->
   <div>
     <a href="https://www.linkedin.com/in/fabwaseem" target="_blank">
