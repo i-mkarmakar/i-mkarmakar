@@ -87,7 +87,7 @@
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
   </a>
 </p>
 </details>
