@@ -83,11 +83,11 @@
 </details>
 
 <details open>
-<summary><b>Cloud & DevOps</b></summary>
+<summary><b>Cloud & DevOps Tools</b></summary>
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git" />
   </a>
 </p>
 </details>
