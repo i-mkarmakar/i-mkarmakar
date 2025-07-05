@@ -31,7 +31,7 @@
   <p style="margin-bottom: 10px;">Passionate Full Stack Developer with expertise in modern web technologies and cloud solutions. I transform innovative ideas into scalable applications.</p>
 
  <!-- - Currently working on **Chhota दुकान** -->
-  - Learning **Web3 & blockchain technology**
+  - Learning **Web3 & blockchain technologies**
   - Looking to collaborate on **Open Source Projects**
   - Ask me about **Web Development**
   - Reach me at **mrinalkarmakar565@gmail.com**
