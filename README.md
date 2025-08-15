@@ -111,10 +111,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-mkarmakar&theme=react-dark&hide_border=true&area=tru" width="*91%">
 </div>
-
-GitHub Trophies 
-<h2>GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i-mkarmakar&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
