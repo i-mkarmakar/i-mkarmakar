@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- About Me Section -->
 <div style="clear: both; margin-top: 50px;">
   <h2>About Me</h2>
