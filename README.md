@@ -1,7 +1,4 @@
 <div align="center">
-  
-  <!-- Banner Image -->
-<img src="https://drive.google.com/uc?export=view&id=1RaWf8s8lHLz8KtWkXuVBuM_iY-6LfunO" width="100%" alt="Welcome Banner"/>
 
   <!-- Social Badges -->
   <div>
